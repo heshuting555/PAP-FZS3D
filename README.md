@@ -1,4 +1,4 @@
-# Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation
+# Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation[[pdf](https://arxiv.org/pdf/2305.14335.pdf)]
 
 
 ## Overview
