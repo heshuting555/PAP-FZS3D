@@ -1,4 +1,4 @@
-# Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation[[pdf](https://arxiv.org/pdf/2305.14335.pdf)]
+# Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation [[pdf](https://arxiv.org/pdf/2305.14335.pdf)]
 
 
 ## Overview
@@ -47,7 +47,7 @@ Test our method under few-shot setting:
 bash scripts/eval_PAP.sh
 ```
 
-Note that the above scripts are used for 2-way 1-shot on S3DIS (S^0). You can modified the corresponding hyperparameters to conduct experiments on other settings. 
+Note that the above scripts are used for 2-way 1-shot on S3DIS (S^0). Please modify the corresponding hyperparameters to conduct experiments on other settings. 
 
 
 
